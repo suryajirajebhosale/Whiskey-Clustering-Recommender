@@ -1,1 +1,2 @@
-This repo entails KMeans clustering of whiskey reviews.
+Clustering different types of whiskeys to create a basic recommender system that provides the user with alternate options 
+to the whiskey they usually drink by returning the most highly rated similar whiskey in its database.
